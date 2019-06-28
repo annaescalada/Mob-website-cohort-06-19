@@ -10,7 +10,6 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background-color: aqua
 }
 
 
@@ -85,14 +84,15 @@ p {
   background-color: #fff;
 }
 
+.display-none {
+  display: none;
+}
+
 /* ---- section ---- */
 
 section.testimonials {
-  // ...
 }
 
 section.testimonials .button {
   margin-bottom: 10px;
 }
-
-
